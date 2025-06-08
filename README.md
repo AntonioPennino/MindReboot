@@ -1,5 +1,3 @@
-# Firebase Studio
+# MindReboot
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Un'app per finire le cattive abitudini.
